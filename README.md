@@ -4,7 +4,7 @@ Hi, My name is Jarvis Kwong.
 
 I'm trying to create computer systems and applications to help the world to become a better place.
 
-This is a Quizz app that I made in Kotlin language.
+This is a Quizz app that I made in Java language.
 
 I create the app to help people to quiz themselves. I found that it helps people to study and memorize the subject better. 
 
@@ -14,7 +14,7 @@ The link below is a walkthrough of the code.
 
 # Development Environment
 
-I used IntelliJ Idea and Kotlin to code.
+I used Android Studio and Java to code.
 
 # Useful Websites
 
