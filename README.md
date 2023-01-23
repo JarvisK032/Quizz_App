@@ -20,7 +20,8 @@ I used Android Studio and Java to code.
 
 Here is a list of websites that I found helpful in this project
 
-- [tutorialkart](https://www.tutorialkart.com/kotlin-android/set-onclicklistener-button-kotlin-android/)
+- [Java Tutorial](https://www.w3schools.com/java//)
+- [Java Tutorial](https://www.tutorialspoint.com/java/index.htm)
 
 # Future Work
 
